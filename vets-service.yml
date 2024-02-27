@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://1cb30eba-9371-4d68-b2dc-e8a89067e562.mysql.service.internal:3306/service_instance_db?user=818316c35d3f408ba5ca5fb15673a9f3&password=j7iq8pip9mh0eki1&sslMode=VERIFY_IDENTITY&useSSL=true&requireSSL=true&enabledTLSProtocols=TLSv1.2&serverSslCert=/etc/ssl/certs/ca-certificates.crt
+    url: jdbc:mysql://1cb30eba-9371-4d68-b2dc-e8a89067e562.mysql.service.internal:3306
     username: 818316c35d3f408ba5ca5fb15673a9f3
     password: j7iq8pip9mh0eki1
